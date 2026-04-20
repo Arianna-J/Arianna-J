@@ -22,7 +22,7 @@ Hi, my name is Arianna and I'm a high school student learning python. I'm intere
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a> 
   <br> 
-  📫 How to reach me: <a href="mailto:aljones0522@gmail.com">aljones@gmail.com</a> 
+  📫 How to reach me: <a href="mailto:aljones0522@gmail.com">aljones0522@gmail.com</a> 
 </p> 
 
 
