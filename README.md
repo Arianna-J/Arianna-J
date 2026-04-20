@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Arianna-J/Arianna-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 
 
-Here are some ideas to get you started:
+My name is Arianna. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a high school student learning Python. 
+
+🌱 I’m currently learning: Harvard CS50 
+
+👀 I’m interested in: Environmental issues
+
+📫 How to reach me: By email
+
+⭐⚡ Fun fact (optional): My favorite color is pink 
